@@ -1,4 +1,6 @@
-## CurveLab
+## Curve Lab
+
+### A simple Hermite curve editor with intermediate calculations updated live.
 
 Copyright 2026 Steven Mycynek
 
